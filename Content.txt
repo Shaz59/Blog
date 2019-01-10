@@ -1,0 +1,11 @@
+Speed optimization services
+
+the right people to discuss these?
+The Page speed, Gtmetrix & Pingdom scores of Hansoftech justify what we do.
+GTmetrix score of Hansoftech after page speed optimization
+Gtmetrix : Page speed score – 100% & Load time – 0.4 sec
+After WordPress speed optimization - Pingdom speed scores of hansoftech
+Pingdom : Load time – 108ms
+google_page_speed_insight_hansoftech_optimisation
+Page speed insight : 100/100 – mobile & 100/100 – desktop
+
