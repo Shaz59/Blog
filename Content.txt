@@ -9,3 +9,5 @@ Pingdom : Load time – 108ms
 google_page_speed_insight_hansoftech_optimisation
 Page speed insight : 100/100 – mobile & 100/100 – desktop
 
+
+Amazon found that reducing page load time by 0.1 second was worth 1% in increased sales.So did Walmart, who found a 2% increase in conversions for every 1 second of improvement.With a drop in the page speed from 100 milliseconds to 600 milliseconds, there was a decrease in the number of searches by 0.2% to 0.6%.( results averaged over four to six weeks)
