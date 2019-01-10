@@ -11,3 +11,11 @@ Page speed insight : 100/100 – mobile & 100/100 – desktop
 
 
 Amazon found that reducing page load time by 0.1 second was worth 1% in increased sales.So did Walmart, who found a 2% increase in conversions for every 1 second of improvement.With a drop in the page speed from 100 milliseconds to 600 milliseconds, there was a decrease in the number of searches by 0.2% to 0.6%.( results averaged over four to six weeks)
+
+
+    47% of people expect a web page to load in two seconds or less.
+    40% will abandon a web page if it takes more than three seconds to load.
+    52% of online shoppers say quick page loads are important for their loyalty to a site.
+
+ “You may have heard that here at Google we’re obsessed with speed, in our products and on the web. As part of that effort, today we’re including a new signal in our search ranking algorithms: site speed.”– Google
+
